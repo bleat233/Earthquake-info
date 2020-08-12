@@ -17,7 +17,7 @@ let Home = () => <div class="row"> <div class="col-4"><Show earthquake=
 
 const App = () => (
   <Router>
-  <div style={{borderColor: "white", height:"10px", margin:"0px"}}> 
+  <div style={{borderColor: "white", height:"10px", margin:"0px"}} > 
     <nav>
       <Link to="/">Home</Link> 
       <Link to="mag">Mag</Link>
