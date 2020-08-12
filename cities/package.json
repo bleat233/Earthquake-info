@@ -1,0 +1,8 @@
+{
+  "name": "cities",
+  "version": "0.0.1",
+  "description": "Look up your cities by zip code",
+  "main": "index.js",
+  "author": "ml",
+  "license": "MIT"
+}
